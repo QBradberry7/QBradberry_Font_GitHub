@@ -1,0 +1,15 @@
+body{
+	background-color: yellow;
+}
+
+#first_font{
+	font-family: 'Bowlby One', cursive;
+}
+
+#second_font{
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+
+#third_font{
+	font-family: 'Oregano', cursive;
+}
